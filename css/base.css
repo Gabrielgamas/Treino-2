@@ -1,0 +1,14 @@
+:root {
+    --preto: #0e0e0e;
+    --branco_txt: #ffffff;
+    --cinza_txt: #313131;
+    --amarelo: #ffa400;
+    --marrom: #402700;
+    --branco_bg: #f5f3ef;
+    --cinza_bg: #ececec;
+}
+
+.tudo {
+    background-color: var(--branco_bg);
+    font-family: 'montserrat';
+}
